@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageVersion>1.0</PackageVersion>
+    <Authors>Lily Hall</Authors>
+    <Copyright>MIT License</Copyright>
+    <NeutralLanguage>en-GB</NeutralLanguage>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Title>Simple PCM waveform generator</Title>
+    <Description>Simple PCM waveform generator.</Description>
+    <PackageIconUrl>https://nyaa.sh/wp-content/uploads/2021/11/lily_pixel.png</PackageIconUrl>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <Owners>Lily Hall</Owners>
+    <PackageProjectUrl>https://github.com/exhaustedbrit/riff-wave-generator-example</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
