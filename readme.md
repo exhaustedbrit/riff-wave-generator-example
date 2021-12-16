@@ -13,6 +13,9 @@ of .NET.
 
 I personally recommend using Visual Studio or Visual Studio Code.
 
+If you have `dotnet` installed, you can run `dotnet run Program.cs` in a
+terminal to output the `sound.wav` example.
+
 ## Explanation
 
 The code consists of two main components, they are called upon in the `Main`
